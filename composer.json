@@ -1,0 +1,9 @@
+{
+    "name": "zacksmash/statamic-vitekit",
+    "extra": {
+        "statamic": {
+            "name": "Vitekit",
+            "description": "Vite/Tailwind starter kit"
+        }
+    }
+}

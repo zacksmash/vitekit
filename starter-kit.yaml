@@ -1,0 +1,13 @@
+export_paths:
+  - content
+  - public/build
+  - resources/css
+  - resources/js
+  - resources/views
+  - .editorconfig
+  - .eslintrc.json
+  - .prettierrc.json
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - vite.config.js
